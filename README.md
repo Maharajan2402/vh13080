@@ -47,6 +47,32 @@ Include screenshots of:
 * Mobile View
 * Desktop View
 
+# Notification Service
+
+## Features
+
+- View Notifications
+- Placement Filter
+- Result Filter
+- Event Filter
+- Pagination
+- Logging Middleware
+
+## Screenshots
+
+### All Notifications
+![All Notifications](./screenshots/all-notifications.png)
+
+### Placement Filter
+![Placement](./screenshots/placement-filter.png)
+
+### Result Filter
+![Result](./screenshots/result-filter.png)
+
+### Event Filter
+![Event](./screenshots/event-filter.png)
+
+
 ## Author
 
 Roll Number: H13080
